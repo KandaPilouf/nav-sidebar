@@ -14,4 +14,3 @@ Simple navbar using Javascript to hide/show and responsive to mobile and tablet 
 
 ## Screenshots
 <img width="1312" height="968" alt="sidebar_show" src="https://github.com/user-attachments/assets/31a6d1d0-8c3e-406d-b616-cd90c0875a89" />
-<img width="1920" height="968" alt="sidebar" src="https://github.com/user-attachments/assets/391f4019-76b3-4d63-b379-941a2b16176e" />
